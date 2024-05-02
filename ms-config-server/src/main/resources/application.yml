@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Samuel-910/DAD2024-G1.git # ruta del repositorio git
+          uri: https://github.com/flormery/DAD2024-G1.git # ruta del repositorio git
           searchPaths: config-data
           #username:
           #password:
