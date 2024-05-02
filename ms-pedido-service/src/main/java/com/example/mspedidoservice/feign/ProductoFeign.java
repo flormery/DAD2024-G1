@@ -8,10 +8,10 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
-@FeignClient(name = "ms-cliente-service",path = "/producto")
+@FeignClient(name = "ms-producto-service",path = "/producto")
 public interface ProductoFeign {
     @GetMapping("/{id}")
-    @CircuitBreaker(name = "pclienteListarPorIdCB", fallbackMethod = "fallbackProductoPorid")
+    @CircuitBreaker(name = "productoListarPorIdCB", fallbackMethod = "fallbackProductoPorid")
     public ResponseEntity<ProductoDto> buscarPOrId(@PathVariable(required = true) Integer id);
     default ResponseEntity<ProductoDto> fallbackProducto(Integer id, Exception e) {
         ProductoDto productoDto = new ProductoDto();
