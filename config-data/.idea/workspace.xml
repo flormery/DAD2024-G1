@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75c31993-de7b-4a6a-a2b8-f68881fe992f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/feign/ProductoFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/feign/ProductoFeign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-catalogo-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-catalogo-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-gateway-service.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +32,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Usuario/elizabeth/DAD2024-G1/config-data",
+    "last_opened_file_path": "C:/Users/Usuario/elizabeth/DAD2024-G1/ms-catalogo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -40,21 +42,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="config-data" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="config-data" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,7 +63,8 @@
       <workItem from="1712245396874" duration="21000" />
       <workItem from="1712245604442" duration="23000" />
       <workItem from="1712245635737" duration="12000" />
-      <workItem from="1714656799054" duration="4034000" />
+      <workItem from="1714656799054" duration="5558000" />
+      <workItem from="1715258665143" duration="1509000" />
     </task>
     <servers />
   </component>
