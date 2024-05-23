@@ -35,6 +35,6 @@ spring:
           predicates:
             - Path=/pedido/**
         - id: ms-auth-service
-          uri: lb://ms-uth-service
+          uri: lb://ms-auth-service
           predicates:
-            - Path=/uth/**
+            - Path=/auth/**
