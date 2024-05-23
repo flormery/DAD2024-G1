@@ -34,7 +34,6 @@ spring:
           uri: lb://ms-pedido-service
           predicates:
             - Path=/pedido/**
-            -
         - id: ms-auth-service
           uri: lb://ms-uth-service
           predicates:
