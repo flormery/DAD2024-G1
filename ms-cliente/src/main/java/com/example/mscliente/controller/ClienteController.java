@@ -25,6 +25,7 @@ public class ClienteController {
     public  ResponseEntity<Cliente> busacarPorId(@PathVariable(required = true) Integer id){
         return ResponseEntity.ok(clienteService.buscarPorId(id));
     }
+
     @PutMapping("/{id}")
     public ResponseEntity<Cliente> editar(@PathVariable(required = true) Integer id, @RequestBody Cliente cliente){
         cliente.setId(id);
