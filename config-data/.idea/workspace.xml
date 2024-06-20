@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75c31993-de7b-4a6a-a2b8-f68881fe992f" name="Changes" comment="" />
+    <list default="true" id="75c31993-de7b-4a6a-a2b8-f68881fe992f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-gateway-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/controller/CategoriaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/controller/CategoriaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/util/PdfUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/util/PdfUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/util/UserExcelExporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/util/UserExcelExporter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,23 +29,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Usuario/elizabeth/DAD2024-G1/ms-config-server",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/elizabeth/DAD2024-G1/ms-auth&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,7 +70,9 @@
       <workItem from="1714656799054" duration="5558000" />
       <workItem from="1715258665143" duration="4280000" />
       <workItem from="1715863943544" duration="5671000" />
-      <workItem from="1716468805387" duration="1812000" />
+      <workItem from="1716468805387" duration="3326000" />
+      <workItem from="1717075669627" duration="606000" />
+      <workItem from="1718888545382" duration="3826000" />
     </task>
     <servers />
   </component>
